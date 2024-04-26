@@ -4,4 +4,7 @@ public class Main {
 
     		System.out.println("HI");
     	}
+		public int getSum(int a, int b) {
+			return a + b;
+		}
 }
