@@ -1,5 +1,10 @@
 public class Main {
+    public int getMinus(final int a, final int b) {
+        return a - b;
+    }
+
     public static void main(String[] args) {
+
     		System.out.println("HI");
     	}
 		public int getSum(int a, int b) {
